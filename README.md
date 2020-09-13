@@ -6,7 +6,7 @@ So, here are some screenshots of the same web app meant only for informational p
 
 ## Screenshots
 
-**Student Group Registration**<br>
+<h3>Student Group Registration</h3><br>
 <img src="https://i.imgur.com/S2LjlPS.png" width="700">
 <br>
 
@@ -14,11 +14,11 @@ So, here are some screenshots of the same web app meant only for informational p
 
 <img src="https://i.imgur.com/eJzkKXc.png" width="700">
 
-**Mentor Login**<br>
+<h3>Mentor Login</h3><br>
 <img src="https://i.imgur.com/qcrx5In.png" width="700">
 <br>
 
-**Mentor Dashboard and features**<br>
+<h3>Mentor Dashboard and features</h3><br>
 <img src="https://i.imgur.com/MOKGfgu.png" width="700">
 <br>
 <img src="https://i.imgur.com/B2W5vL7.png" width="700">
