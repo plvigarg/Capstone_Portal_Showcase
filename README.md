@@ -4,7 +4,7 @@ Since, the project is not public, we don't have permissions to share the code of
 
 So, here are some screenshots of the same web app meant only for informational purposes.
 
-## Tech Stack :- Python (Flask), HTML/CSS, Bootstrap, MySQL
+#### Tech Stack :- Python (Flask), HTML/CSS, Bootstrap, MySQL
 
 ## Screenshots
 
