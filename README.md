@@ -1,6 +1,6 @@
 # Capstone Project Showcase
 The sole purpose of this repository is to showcase the project (Capstone Portal) which is currently used in production and is hosted on a private server.
-Since, the project is not public, we don't have permissions to share the code of the original project https://github.com/dpmittal/capstone_portal (private repo)
+Since, the project is not public, we don't have permissions to share the code of the original project https://github.com/plvigarg/capstone_portal (private repo)
 
 So, here are some screenshots of the same web app meant only for informational purposes.
 
